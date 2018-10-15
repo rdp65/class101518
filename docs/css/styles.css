@@ -4,3 +4,30 @@ h1 {
     padding: 20px;
     background-color: blue;
 }
+#wrapper{
+    width: 960px;
+    border: 1px solid black;
+
+}
+
+#Box1 {
+    background-color:  aliceblue;
+}
+#Box2 {
+    background-color: red;
+    width: 593px;
+    float: left;
+}
+#Box3 {
+    background-color: blueviolet;
+    width: 367px;
+    float: left;
+}
+#Box4 {
+    background-color: chartreuse;
+    clear: both;
+}
+.box{
+    height: 50px;
+    width: 50px;
+}
