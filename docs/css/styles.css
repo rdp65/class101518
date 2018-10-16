@@ -13,12 +13,12 @@ h1 {
 
 }
 
-#Box1 {
+#menu {
     background-color:  aliceblue;
     height: 50px;
     line-height: 50px;
 }
-#Box2 {
+#banner {
     background-color: red;
 }
 #Box3 {
@@ -31,6 +31,11 @@ h1 {
     width: 367px;
     clear: both;
 }
+
+#Box5 {
+    background-color: cyan;
+    width: 367px;
+    clear: both;
 .box{
     height: 50px;
     width: 50px;
