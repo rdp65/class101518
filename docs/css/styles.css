@@ -4,28 +4,31 @@ h1 {
     padding: 20px;
     background-color: blue;
 }
-#wrapper{
+
+#wrapper {
     width: 960px;
     border: 1px solid black;
     margin-left: auto;
     margin-right: auto;
 
-
 }
 
 #menu {
-    background-color:  aliceblue;
+    background-color: aliceblue;
     height: 50px;
     line-height: 50px;
 }
+
 #banner {
     background-color: red;
 }
+
 #Box3 {
     background-color: blueviolet;
     width: 593px;
     float: left;
 }
+
 #Box4 {
     background-color: chartreuse;
     width: 367px;
@@ -36,7 +39,8 @@ h1 {
     background-color: cyan;
     width: 367px;
     clear: both;
-.box{
+
+.box {
     height: 50px;
     width: 50px;
 }
